@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293704067306",
+    "project_id": "phone-tracker-30fa8",
+    "storage_bucket": "phone-tracker-30fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293704067306:android:fcbfca90e19e78a1970f93",
+        "android_client_info": {
+          "package_name": "package.com.phonetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293704067306-f70s2mjj35ecp1n26gmfole5bm2pa1ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Im2vsjxogb_73b5mSPMrjUCGbLCARyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293704067306-f70s2mjj35ecp1n26gmfole5bm2pa1ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
